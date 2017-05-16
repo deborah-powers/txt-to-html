@@ -1,0 +1,62 @@
+
+_________________________
+______ les courses ______
+
+un exemple simple de fichier transformable par mon script dpowers_html
+
+______ ce qu'il y a à la maison ______
+
+un exemple de tableau
+
+oeufs	2
+lait	1 brique
+pain	2 baguettes
+yaourts	6
+carottes	0
+petits pois	1 boîte
+haricots	2 boîtes
+oranges	4
+pommes	6
+
+______ ce qu'il faut acheter ______
+
+un exemple de liste
+	oeufs
+	lait
+	légumes
+		carottes
+		petits pois
+	oranges
+__________________________________
+______ redécorer les pièces ______
+
+
+______ le salon ______
+
+--- les murs ---
+mettre du papier peint coquille d'oeuf
+
+--- le sol ---
+faire nettoyer le plancher
+
+--- les meubles ---
+choisir du mobilier des années 20
+
+---- coin télé ----
+repeindre le vieux meuble télé
+
+---- coin repas ----
+déplacer la table vers la fenêtre
+
+
+______ la cuisine ______
+
+--- les murs ---
+tout repeindre en vert
+
+--- le sol ---
+changer le carelage
+
+--- les meubles ---
+rajouter des placards
+

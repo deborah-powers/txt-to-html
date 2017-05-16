@@ -1,5 +1,5 @@
-_______________________________________
-______ A quoi servent ce projet ______
+___________________________________
+______ A quoi sert ce projet ______
 
 je prend régulièrement des notes au format .txt.
 j'utilise une mise en page qui me permet de facilement me retrouver dans mes notes

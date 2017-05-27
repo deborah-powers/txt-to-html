@@ -28,7 +28,27 @@ ce script peut etre appele dans d'autres scripts
 si vous ne voulez que rajouter des majuscules dans un texte:
 	python dpowers_txt.py fichier
 
-contient trois fonctions:
+contient les variables globales:
+
+path_root	chemin du dossier "user", qui contient bureau et documents
+path_desktop	chemin du bureau
+path_document	chemin du dossier "document"
+dico_raccourcis
+		dictionnaire stoquant les raccourcis et les chemins correspondant
+		raccourci : chemin/complet
+
+vous devez les modifier afin de les adapter a votre ordinateur
+vous pouvez rajouter d'autres variables
+
+contient les fonctions:
+
+chemin = raccourcis (chemin)
+	action:
+		les chemins de fichiers peuvent etre ecris avec des raccourcis.	b/fichier.txt
+		cette fonction remplace le raccourci par le chemin entier.	C://user/bureau/fichier.txt
+		vous pouvez rajouter vos propres chemins de dossier
+	argument: le chemin
+	retourne: le chemin entier
 
 texte = lire (fichier)
 	ouvrir un fichier .txt, recuperer le texte dans une chaine de caractere

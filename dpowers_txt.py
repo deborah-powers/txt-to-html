@@ -103,7 +103,7 @@ def raccourcis (chemin):
 	retourne: le chemin entier
 	"""
 #	le chemin est ecrit normalement
-	if chemin_root in chemin: return chemin
+	if path_root in chemin: return chemin
 #	le chemin est un raccourci
 	if chemin[:2] in dico_raccourcis.keys():
 		chemin = chemin.replace (chemin[:2], dico_raccourcis [chemin[:2]])
